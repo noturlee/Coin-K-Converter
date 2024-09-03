@@ -13,8 +13,8 @@ A robust Android application that makes use of a Currency Converter API, Boastin
 ## Application UI
 
 <div align="center"> 
-  <img width="359" alt="Screenshot 2024-09-03 at 10 20 07" src="https://github.com/user-attachments/assets/f4189b53-b756-445b-8992-f9281a476001" style="margin-right: "4";"> 
-  <img width="359" alt="Screenshot 2024-09-03 at 10 20 41" src="https://github.com/user-attachments/assets/f88717fa-0fa3-4015-85db-7d9bf1556fe3"> </div>
+  <img width="320" alt="Screenshot 2024-09-03 at 10 20 07" src="https://github.com/user-attachments/assets/f4189b53-b756-445b-8992-f9281a476001" style="margin-right: "4";"> 
+  <img width="320" alt="Screenshot 2024-09-03 at 10 20 41" src="https://github.com/user-attachments/assets/f88717fa-0fa3-4015-85db-7d9bf1556fe3"> </div>
 
 ## Installation
 
